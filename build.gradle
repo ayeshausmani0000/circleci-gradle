@@ -33,6 +33,6 @@ repositories {
 }
 
 task execute(type:JavaExec) {
-   main = mainClass
+   main = Library
    classpath = sourceSets.main.runtimeClasspath
 }
