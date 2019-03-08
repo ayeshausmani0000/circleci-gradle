@@ -3,7 +3,7 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
     
     public static void main(String[] args) {
